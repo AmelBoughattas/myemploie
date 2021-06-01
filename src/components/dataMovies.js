@@ -31,7 +31,7 @@ const movieList= [
   {
       id:uuidv4(),
       title :"The father",
-      description : "Anthony est retraité. Il vit seul dans son appartement de Londres et refuse toutes les aides-soignantes que sa fille, Anne, tente de lui imposer. Cette dernière y voit une nécessité d’autant plus grande qu’elle ne pourra plus passer le voir tous les jours : elle a en effet pris la décision de partir vivre à Paris pour s’installer avec l’homme qu’elle vient de rencontrer",
+      description : "Anthony est retraité. Il vit seul dans son appartement de Londres et refuse toutes les aides-soignantes que sa fille, Anne, tente de lui imposer. Cette dernière y voit une nécessité d’autant plus grande qu’elle ne pourra plus passer le voir tous les jours.",
       posteURL: "https://i.pinimg.com/originals/1d/36/3d/1d363d84df0c6885de96cb8748ebbba5.jpg",
       backImg:"https://upload.wikimedia.org/wikipedia/en/a/ab/The_Father_2020_poster.jpg",
       trailer :'https://www.youtube.com/embed/4TZb7YfK-JI',
