@@ -58,7 +58,7 @@ const movieList= [
   {  
     id:uuidv4(),
     title :"Dolittle",
-    description : "John Dolittle, a prodigious doctor, capable of speaking with animals, lived with many of them and his beloved wife Lily in the reserve of wonders that the Queen of England had offered him as a gift. But a shipwreck has taken Lily forever and since then Dolittle has never wanted to meet her fellow men, has closed the hospital doors and given up everything. ",
+    description : "John Dolittle, a prodigious doctor, capable of speaking with animals, lived with many of them and his beloved wife Lily in the reserve of wonders that the Queen of England had offered him as a gift. But a shipwreck has taken Lily forever and since then Dolittle has never wanted to meet her fellow men. ",
     posteURL: "https://movies.universalpictures.com/media/dolittle-5da4b60a57abe-1.jpg",
     backImg:"https://i.dailymail.co.uk/1s/2020/02/06/14/24393540-7973991-image-a-28_1581000798177.jpg",
     trailer :'https://www.youtube.com/embed/FEf412bSPLs',
